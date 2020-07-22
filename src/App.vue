@@ -39,7 +39,9 @@ export default {
       position: 0,
       positionWhere: '',
       positionString: '',
-      guests: []
+      guests: [
+        'Steve and Fiona'
+      ]
     }
   },
   methods: {
